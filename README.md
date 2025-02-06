@@ -17,12 +17,12 @@ It helps in **predicting breast cancer** based on given **clinical parameters an
 - ✅ Supports **real-time predictions**.  
 
 
-##📊 Machine Learning Model
+## 📊 Machine Learning Model
 - Uses Scikit-learn for model training.
 - Implements Random Forest / Logistic Regression / SVM (choose based on performance).
 - Dataset preprocessing includes feature scaling and encoding.
 
-  ## 📬 Contact  
+## 📬 Contact  
 
 💡 **Author:** [Mehdi Dinari]  
 📧 **Email:** [treshlol202@gmail.com](mailto:treshlol202@gmail.com)  
